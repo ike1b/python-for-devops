@@ -109,6 +109,9 @@ myenv\Scripts\activate
 
 # Activate the virtual environment (on macOS/Linux)
 source myenv/bin/activate
+
+# Exit the virtual environment
+deactivate
 ```
 
 Once activated, you work in an isolated workspace with its Python interpreter and library dependencies.
